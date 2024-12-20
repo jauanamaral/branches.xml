@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE branches SYSTEM "branches.dtd">
+<branches>
+    <branch>
+        <name>Sydney CBD</name>
+        <address>123 George Street, Sydney</address>
+        <phone>(02) 1234-5678</phone>
+        <hours>
+            <opening>7:00 AM</opening>
+            <closing>10:00 PM</closing>
+        </hours>
+    </branch>
+
+    <branch>
+        <name>Bondi Beach</name>
+        <address>45 Campbell Parade, Bondi Beach</address>
+        <phone>(02) 8765-4321</phone>
+        <hours>
+            <opening>6:30 AM</opening>
+            <closing>8:00 PM</closing>
+        </hours>
+    </branch>
+
+    <branch>
+        <name>Newtown</name>
+        <address>88 King Street, Newtown</address>
+        <phone>(02) 1122-3344</phone>
+        <hours>
+            <opening>8:00 AM</opening>
+            <closing>9:00 PM</closing>
+        </hours>
+    </branch>
+</branches>
